@@ -1,19 +1,26 @@
 # 💫 About Me
-🎓 CSE (Data Science) Student | Aspiring Data Scientist  
+
+🎓 CSE (Data Science) Student  
 📍 Ghaziabad, India  
+🔍 Data Science | Machine Learning | Python Enthusiast  
 
-I love working with data, exploring patterns, and building practical projects to strengthen my Data Science fundamentals.  
-Currently improving my skills in Python, Pandas, NumPy, EDA, and Machine Learning workflows.
+I enjoy exploring data, uncovering insights, and building practical projects that strengthen my fundamentals in Data Science.  
+Currently focusing on improving my skills in Python, NumPy, Pandas, EDA, and Machine Learning workflows.
 
-💡 What I Do  
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Python-based analytical scripting  
-- Building beginner ML & DS projects  
-- Learning model training workflows  
+---
 
-🚀 Goals  
-To grow into a skilled Data Scientist capable of building real, impactful data-driven solutions.
+## 💡 What I’m Learning / Doing
+- Cleaning & preprocessing messy datasets  
+- Performing Exploratory Data Analysis (EDA)  
+- Python-based data manipulation  
+- Building beginner-level ML models  
+- Understanding workflows of real ML projects  
+- Strengthening NumPy fundamentals (Contributing to Open Source)
+
+---
+
+## 🚀 Goals  
+To grow into a skilled Data Scientist capable of solving real-world problems through data-driven approaches and practical ML solutions.
 
 ---
 
