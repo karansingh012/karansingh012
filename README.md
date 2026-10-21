@@ -1,28 +1,35 @@
-# 💫 About Me
+About Me
 
-🎓 CSE (Data Science) Student  
-📍 Ghaziabad, India  
-🔍 Data Science | Machine Learning | Python Enthusiast  
+I’m Karan Singh, a Computer Science and Engineering student specializing in Data Science at ABES Engineering College, Ghaziabad, India.
 
-I enjoy exploring data, uncovering insights, and building practical projects that strengthen my fundamentals in Data Science.  
-Currently focusing on improving my skills in Python, NumPy, Pandas, EDA, and Machine Learning workflows.
+My interests lie in Machine Learning, Deep Learning, and Artificial Intelligence. I enjoy building practical solutions, experimenting with data, and developing end-to-end machine learning workflows.
 
----
+Areas of Interest
 
-## 💡 What I’m Learning / Doing
-- Cleaning & preprocessing messy datasets  
-- Performing Exploratory Data Analysis (EDA)  
-- Python-based data manipulation  
-- Building beginner-level ML models  
-- Understanding workflows of real ML projects  
-- Strengthening NumPy fundamentals (Contributing to Open Source)
+* Machine Learning and Deep Learning
+* Data Science and Feature Engineering
+* Generative AI and Large Language Models
+* End-to-End ML Pipelines
+* Open-Source Development
 
----
+Technical Skills
 
-## 🚀 Goals  
-To grow into a skilled Data Scientist capable of solving real-world problems through data-driven approaches and practical ML solutions.
+* Languages: Python, Java, SQL
+* Data Science: NumPy, Pandas, Matplotlib, Seaborn
+* Machine Learning: Scikit-learn, XGBoost, LightGBM
+* Deep Learning: TensorFlow, CNNs
+* Tools: Git, GitHub, Jupyter Notebook, Streamlit
 
----
+Current Focus
+
+* Building and optimizing machine learning pipelines
+* Exploring LLM applications, RAG, and AI agents
+* Strengthening problem-solving and software development skills
+* Contributing to open-source projects
+
+Career Objective
+
+To develop reliable, scalable, and impactful AI/ML solutions while continuously improving my technical expertise through hands-on projects and open-source collaboration.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__karansingh__001/) 
